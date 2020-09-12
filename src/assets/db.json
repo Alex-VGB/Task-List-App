@@ -2,37 +2,37 @@
   "lists": [
     {
       "id": 1,
-      "name": "Продажи",
+      "name": "Sales",
       "colorId": 5
     },
     {
       "id": 2,
-      "name": "Фронтенд",
+      "name": "Frontend",
       "colorId": 4
     },
     {
       "id": 3,
-      "name": "Фильмы и сериалы",
+      "name": "Films and series",
       "colorId": 3
     },
     {
       "id": 4,
-      "name": "Книги",
+      "name": "Books",
       "colorId": 2
     },
     {
       "id": 5,
-      "name": "Личное",
+      "name": "Personal",
       "colorId": 1
     },
     {
-      "name": "Спорт",
-      "colorId": 3,
+      "name": "Alex",
+      "colorId": 7,
       "id": 6
     },
     {
-      "name": "Курс по ReactJS ToDo",
-      "colorId": 7,
+      "name": "Test",
+      "colorId": 1,
       "id": 7
     }
   ],
@@ -40,19 +40,19 @@
     {
       "id": 1,
       "listId": 2,
-      "text": "Изучить JavaScript",
+      "text": "Learn JavaScript",
       "completed": true
     },
     {
       "id": 2,
       "listId": 2,
-      "text": "Изучить паттерны проектирования",
+      "text": "Explore design patterns",
       "completed": false
     },
     {
       "id": 3,
       "listId": 2,
-      "text": "ReactJS Hooks (useState, useReducer, useEffect и т.д.)",
+      "text": "ReactJS Hooks (useState, useReducer, useEffect)",
       "completed": true
     },
     {
@@ -70,13 +70,13 @@
     {
       "listId": 1,
       "text": "test",
-      "completed": false,
+      "completed": true,
       "id": 6
     },
     {
       "listId": 1,
       "text": "qweqwe",
-      "completed": false,
+      "completed": true,
       "id": 7
     },
     {
@@ -87,14 +87,14 @@
     },
     {
       "listId": 1,
-      "text": "123",
-      "completed": false,
+      "text": "ddds",
+      "completed": true,
       "id": 9
     },
     {
       "listId": 4,
-      "text": "Купить 1984!",
-      "completed": true,
+      "text": "Buy 1984!",
+      "completed": false,
       "id": 10
     },
     {
@@ -105,27 +105,9 @@
     },
     {
       "listId": 7,
-      "text": "Сделали сайдбар",
+      "text": "Test",
       "completed": true,
-      "id": 15
-    },
-    {
-      "listId": 7,
-      "text": "Сделали список задач",
-      "completed": true,
-      "id": 16
-    },
-    {
-      "listId": 7,
-      "text": "Сделали удаление и редактирование задач и списков",
-      "completed": true,
-      "id": 17
-    },
-    {
-      "listId": 8,
-      "text": "tttt",
-      "completed": false,
-      "id": 18
+      "id": 13
     }
   ],
   "colors": [
